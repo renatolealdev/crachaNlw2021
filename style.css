@@ -2,7 +2,8 @@
   margin: 0px;
 }
 
-html, body {
+html,
+body {
   --black: hsl(240, 6%, 13%);
   --grey: hsl(240, 9%, 89%);
 
