@@ -80,3 +80,7 @@ ul {
 
   justify-content: center;
 }
+
+li a {
+  transition: 0.3s;
+}
