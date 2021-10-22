@@ -85,3 +85,7 @@ ul {
 li a {
   transition: 0.3s;
 }
+
+li a:hover {
+  transform: translateY(-5px);
+}
